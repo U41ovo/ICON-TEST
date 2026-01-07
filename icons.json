@@ -1,0 +1,13 @@
+{
+  "icons": [
+    {
+      "name": "Netflix",
+      "rule": [
+        "netflix",
+        "netflix.com",
+        "nf.com"
+      ],
+      "icon": "https://raw.githubusercontent.com/YOUR_USERNAME/MyIconSet/main/icons/netflix.png"
+    }
+  ]
+}
