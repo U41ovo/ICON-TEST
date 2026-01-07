@@ -1,13 +1,9 @@
 {
-  "icons": [
-    {
-      "name": "Slayhub",
+ "name": "Slayhub",
       "rule": [
         "slayhub",
         "gay",
         "hub"
       ],
       "icon": "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.PNG"
-    }
-  ]
 }
