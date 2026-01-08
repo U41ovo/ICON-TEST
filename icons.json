@@ -1,7 +1,7 @@
 {
   "name": "ICON",
   "description": "GitHub: @U41ovo",
-  "icons": [
+  "icons":[
     {"name": "slayhub", "url": "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.png"}
     {"name": "ody", "url": "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/ody.png"}
   ]
