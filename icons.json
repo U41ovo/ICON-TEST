@@ -2,6 +2,9 @@
   "name":"ICON",
   "description": "GitHub: @U41ovo",
   "icons":[
-    {"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.jpg"}
+    {
+      "name": "slayhub",
+      "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.jpg"
+    }
   ]
 }
