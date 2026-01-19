@@ -1,10 +1,10 @@
 {
-  "name":"ICON",
+  "name": "SlayHub",
   "description": "GitHub: @U41ovo",
-  "icons":[
+  "icons": [
     {
       "name": "slayhub",
-      "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.jpg"
+      "url": "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.jpg"
     }
   ]
 }
