@@ -1,8 +1,9 @@
 {
-  "name": "SlayHub",
-  "description": "GitHub: @U41ovo",
-  "icons": [
-             {"name":"slayhub", "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.jpg"},
-             {"name":"test", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/test.png"}
-  ]
+	"name":"SlayHub", 
+	"description":"GitHub: @U41ovo",  
+	"icons":
+		[
+			{"name":"slayhub", "https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.jpg"},
+			{"name":"test", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/test.png"}
+		]
 }
