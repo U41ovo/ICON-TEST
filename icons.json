@@ -1,9 +1,8 @@
 {
-"name":"SlayHub", 
-"description":"For SlayHub", 
+"name":"Hanabi Logo", 
+"description":"Thanks", 
 "icons":
     [
-	{"name":"slayhub_black", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/black.png"},
-	{"name":"slayhub_white", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/white.png"}
+	{"name":"hanabi", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/hanabi.png"}
   ]
 }
