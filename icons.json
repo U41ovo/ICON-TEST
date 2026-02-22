@@ -4,6 +4,7 @@
 "icons":
     [
 	{"name":"slayhub_1", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/1.png"},
-	{"name":"slayhub_2", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/2.png"}
+	{"name":"slayhub_2", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/2.png"},
+	{"name":"slayhub", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/slayhub.png"}
   ]
 }
