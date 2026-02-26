@@ -3,6 +3,7 @@
 "description":"Thanks", 
 "icons":
     [
-	{"name":"hanabi", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/200.png"}
+	{"name":"hanabi", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/200.png"},
+	{"name":"black", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/black.png"}
   ]
 }
