@@ -3,7 +3,8 @@
 "description":"Thanks", 
 "icons":
     [
-	{"name":"hanabi", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/hanabi.png"},
-	{"name":"black", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/black1.png"}
+	{"name":"hanabi", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/hanabi-black.png"},
+	{"name":"black", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/black1.png"},
+    {"name":"black", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/HANABI.png"}
   ]
 }
