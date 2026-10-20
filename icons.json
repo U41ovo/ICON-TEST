@@ -4,7 +4,6 @@
 "icons":
     [
 	{"name":"hanabi-black", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/hanabi-black.png"},
-	{"name":"black", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/black1.png"},
-    {"name":"hanabi", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/HANABI.png"}
+	{"name":"hanabi-white", "url":"https://raw.githubusercontent.com/U41ovo/ICON-TEST/refs/heads/main/icons/hanabi-white.png"}
   ]
 }
